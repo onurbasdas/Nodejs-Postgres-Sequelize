@@ -1,0 +1,22 @@
+{
+  "production": {
+    "db_url": "postgres://uoqreloyagekqx:13a4857b7f41701a22f23faf6c208f79152cc897f45f5b791b8bc1c360a52d4a@ec2-54-160-202-3.compute-1.amazonaws.com:5432/d3lutnppaqu99o",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "uoqreloyagekqx",
+    "password": "13a4857b7f41701a22f23faf6c208f79152cc897f45f5b791b8bc1c360a52d4a",
+    "database": "d3lutnppaqu99o",
+    "host": "ec2-54-160-202-3.compute-1.amazonaws.com",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "development": {
+    "username": "uoqreloyagekqx",
+    "password": "13a4857b7f41701a22f23faf6c208f79152cc897f45f5b791b8bc1c360a52d4a",
+    "database": "d3lutnppaqu99o",
+    "host": "ec2-54-160-202-3.compute-1.amazonaws.com",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
